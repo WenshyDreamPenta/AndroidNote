@@ -10,6 +10,5 @@
    
 ## 安卓动画相关
    1. [Animation动画详解——ObjectAnimator基本使用](http://blog.csdn.net/xuepeng0728119/article/details/50607534)<br>
-   2. [ Android属性动画之XML定义方式](http://blog.csdn.net/hp910315/article/details/49176477)<br>
-   
+
 
