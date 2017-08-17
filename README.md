@@ -11,5 +11,8 @@
 ## 安卓动画相关
    1. [Animation动画详解——ObjectAnimator基本使用](http://blog.csdn.net/xuepeng0728119/article/details/50607534)<br>
    2. [安卓动画相关](https://www.zhihu.com/question/27718787)<br>
+   
+## 安卓UI相关
+   1. [Fresco简单的使用—SimpleDraweeView](http://blog.csdn.net/u011164565/article/details/51330778)<br>
 
 
