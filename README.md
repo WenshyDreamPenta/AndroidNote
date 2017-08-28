@@ -18,3 +18,6 @@
    
 ## 安卓Socket、Http网络相关
    1. [基于Java Socket的自定义协议，实现Android与服务器的长连接](http://blog.csdn.net/u010818425/article/details/53448817)<br>
+   
+## 安卓热修复技术相关
+   1. [Android 热补丁动态修复框架小结](http://blog.csdn.net/lmj623565791/article/details/49883661)<br>
