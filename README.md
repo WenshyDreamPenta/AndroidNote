@@ -14,6 +14,7 @@
    
 ## 安卓UI相关
    1. [Fresco简单的使用—SimpleDraweeView](http://blog.csdn.net/u011164565/article/details/51330778)<br>
+   2. [自定义控件View相关](http://blog.csdn.net/duyiqun/article/details/70184803)<br>
    
    
 ## 安卓Socket、Http网络相关
