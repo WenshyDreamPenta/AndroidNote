@@ -25,4 +25,8 @@
    
 ## 调试框架
    1. [Android 调试框架Stetho](https://www.figotan.org/2016/04/18/using-stetho-to-diagnose-data-on-android)<br>
-   2. [抓包工具fiddle](http://www.cnblogs.com/yyhh/p/5140852.html)<br>
+   2. [抓包工具fiddle](http://www.cnblogs.com/yyhh/p/5140852.html)
+## Android profiler调试框架
+  1. [AndroidStudio3.0 Android Profiler分析器](http://blog.csdn.net/niubitianping/article/details/72617864)
+  
+   
