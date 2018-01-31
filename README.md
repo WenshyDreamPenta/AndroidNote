@@ -1,9 +1,9 @@
 # AndroidNote
 
 ## Android UI相关
-    1. [Fresco简单的使用—SimpleDraweeView](http://blog.csdn.net/u011164565/article/details/51330778)
-    2. [自定义控件View相关](http://blog.csdn.net/duyiqun/article/details/70184803)
-    3. [Android用Studio完成多设备多分辨率的适配](http://blog.csdn.net/u011156012/article/details/50113467)
+  1. [Fresco简单的使用—SimpleDraweeView](http://blog.csdn.net/u011164565/article/details/51330778)
+  2. [自定义控件View相关](http://blog.csdn.net/duyiqun/article/details/70184803)
+  3. [Android用Studio完成多设备多分辨率的适配](http://blog.csdn.net/u011156012/article/details/50113467)
   4. [Android AutoLayout全新的适配方式 堪称适配终结者](http://blog.csdn.net/lmj623565791/article/details/49990941/)
   5. [Animation动画详解——ObjectAnimator基本使用](http://blog.csdn.net/xuepeng0728119/article/details/50607534)
   6. [安卓动画相关](https://www.zhihu.com/question/27718787)
