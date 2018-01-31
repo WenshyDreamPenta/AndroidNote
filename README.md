@@ -1,8 +1,10 @@
 # AndroidNote
 
 ## 安卓性能优化
-      1. [利用Android Studio、MAT对Android进行内存泄漏检测](https://github.com/taoweiji/DemoAndroidMemoryLeak)<br>
-      2. [MemoryMonitor 以及Allocation Tracker，还有Dump Java Heap，分析内存泄漏](http://www.jianshu.com/p/fa88a33cae19)<br>
+```Chinese
+  1. [利用Android Studio、MAT对Android进行内存泄漏检测](https://github.com/taoweiji/DemoAndroidMemoryLeak)<br>
+  2. [MemoryMonitor 以及Allocation Tracker，还有Dump Java Heap，分析内存泄漏](http://www.jianshu.com/p/fa88a33cae19)<br>
+```
 
 ## 安卓屏幕适配
       1. [【Android】用Studio完成多设备多分辨率的适配](http://blog.csdn.net/u011156012/article/details/50113467)<br>
@@ -41,6 +43,9 @@
    ​
 
 
+## Java、Android内存模型分析
 
+1. [Android内存性能优化检测](https://www.jianshu.com/p/3103985da0ef)
+2. ​
 
 
