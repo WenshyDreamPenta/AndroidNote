@@ -37,5 +37,14 @@
 ## Rxjava2.0使用及原理分析
 
 1. [Android：手把手带你入手神秘的 Rxjava](http://blog.csdn.net/carson_ho/article/details/78179340)
+
 2. [Android ：源码分析RxJava](https://juejin.im/entry/5a652b53f265da3e324597a7?utm_source=gold_browser_extension)
+
+   ​
+
+
+# Android 面试
+
+1. [Android 开发工程师面试指南](https://juejin.im/entry/579052d1128fe100568f2515)
+2. [Android开发总结](https://www.jianshu.com/p/593d09994e4d?utm_source=desktop&utm_medium=timeline)
 
