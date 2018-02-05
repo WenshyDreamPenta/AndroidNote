@@ -1,6 +1,13 @@
 # AndroidNote
 
+## Java基础
+
+1. [Java 泛型总结（一）：基本用法与类型擦除](https://segmentfault.com/a/1190000005179142)
+2. [Java 泛型总结（二）：泛型与数组](https://segmentfault.com/a/1190000005179147)
+3. [Java 泛型总结（三）：通配符的使用](https://segmentfault.com/a/1190000005337789)
+
 ## Android UI相关
+
 1. [Fresco简单的使用—SimpleDraweeView](http://blog.csdn.net/u011164565/article/details/51330778)
 2. [自定义控件View相关](http://blog.csdn.net/duyiqun/article/details/70184803)
 3. [Android用Studio完成多设备多分辨率的适配](http://blog.csdn.net/u011156012/article/details/50113467)
