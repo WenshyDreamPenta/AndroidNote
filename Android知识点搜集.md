@@ -30,11 +30,15 @@ Java的内存区域主要分为五部分：
 
 ##### 5. 视频加密传输
 
+
+
 统计启动时长,标准
 
 如何保持应用的稳定性
 
 ThreadLocal 原理
+
+
 
 谈谈classloader
 
@@ -42,7 +46,13 @@ ThreadLocal 原理
 
 热修复,插件化
 
-HashMap源码,SpareArray原理
+##### HashMap原理
+
+1.通过hash的方法，通过put和get存储和获取对象。存储对象时，我们将K/V传给put方法时，它调用hashCode计算hash从而得到bucket位置，进一步存储，HashMap会根据当前bucket的占用情况自动调整容量(超过Load Facotr则resize为原来的2倍)。获取对象时，我们将K传给get，它调用hashCode计算hash从而得到bucket位置，并进一步调用equals()方法确定键值对。如果发生碰撞的时候，Hashmap通过链表将产生碰撞冲突的元素组织起来，在Java 8中，如果一个bucket中碰撞冲突的元素超过某个限制(默认是8)，则使用红黑树来替换链表，从而提高速度
+
+[HashMap解析](https://tech.meituan.com/java-hashmap.html)
+
+SpareArray原理
 
 性能优化,怎么保证应用启动不卡顿
 
