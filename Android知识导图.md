@@ -1,1 +1,1 @@
-![Android知识导图补充](/Users/wangmingxing/Documents/技术文档/Android知识导图.jpeg)
+![android知识导图](https://wangmingxing-1256134515.cos.ap-shanghai.myqcloud.com/2018-02-28-Android%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%9B%BE.jpeg)
