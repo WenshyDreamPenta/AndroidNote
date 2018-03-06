@@ -31,6 +31,7 @@
 
 1. [音视频技术](http://www.52im.net/thread-853-1-1.html)
 2. [深入浅出理解视频编码H264结构](http://simplecodesky.com/2016/11/15/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BA%E7%90%86%E8%A7%A3%E8%A7%86%E9%A2%91%E7%BC%96%E7%A0%81H264%E7%BB%93%E6%9E%84/)
+3. [浅谈实时音视频直播中直接影响用户体验的几项关键技术指标](http://www.52im.net/thread-953-1-1.html)
 
 
 ## Java、Android内存模型分析
