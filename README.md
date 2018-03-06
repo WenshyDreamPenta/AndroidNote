@@ -33,6 +33,10 @@
 2. [深入浅出理解视频编码H264结构](http://simplecodesky.com/2016/11/15/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BA%E7%90%86%E8%A7%A3%E8%A7%86%E9%A2%91%E7%BC%96%E7%A0%81H264%E7%BB%93%E6%9E%84/)
 3. [浅谈实时音视频直播中直接影响用户体验的几项关键技术指标](http://www.52im.net/thread-953-1-1.html)
 4. [实时通信RTC技术栈之：视频编解码](http://www.52im.net/thread-1034-1-1.html)
+5. [微信实时视频聊天技术的演进](http://www.52im.net/thread-1201-1-1.html)
+6. [即时通讯音视频开发（一）：视频编解码之理论概述](http://www.52im.net/thread-228-1-1.html)
+7. [支持百万级粉丝互动的Facebook实时视频直播](http://www.52im.net/thread-541-1-1.html)
+8. [网易云信实时视频直播在TCP数据传输层的一些优化思路](http://www.52im.net/thread-1254-1-1.html)
 
 
 ## Android内存模型分析
@@ -47,7 +51,7 @@
 
 1. [Android：手把手带你入手神秘的 Rxjava](http://blog.csdn.net/carson_ho/article/details/78179340)
 
-2. [Android ：源码分析RxJava](https://juejin.im/entry/5a652b53f265da3e324597a7?utm_source=gold_browser_extension)​
+2. [Android ：源码分析RxJava](https://juejin.im/entry/5a652b53f265da3e324597a7?utm_source=gold_browser_extension)
 
 
 
