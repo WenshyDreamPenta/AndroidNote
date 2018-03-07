@@ -37,7 +37,8 @@
 6. [即时通讯音视频开发（一）：视频编解码之理论概述](http://www.52im.net/thread-228-1-1.html)
 7. [支持百万级粉丝互动的Facebook实时视频直播](http://www.52im.net/thread-541-1-1.html)
 8. [网易云信实时视频直播在TCP数据传输层的一些优化思路](http://www.52im.net/thread-1254-1-1.html)
-9. [mac下搭建自己的直播服务](https://segmentfault.com/a/1190000005090828)
+9. [mac下搭建自己的直播服务](https://www.jianshu.com/p/9332a8c7711e)
+10. [Mac下nginx+rtmp+ffmepg直播服务器](https://www.jianshu.com/p/02222073b3f1)
 
 
 ## Android内存模型分析
