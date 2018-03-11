@@ -39,6 +39,7 @@
 8. [网易云信实时视频直播在TCP数据传输层的一些优化思路](http://www.52im.net/thread-1254-1-1.html)
 9. [mac下搭建自己的直播服务](https://www.jianshu.com/p/9332a8c7711e)
 10. [Mac下nginx+rtmp+ffmepg直播服务器](https://www.jianshu.com/p/02222073b3f1)
+11. [App直播优化技术分析](https://www.cnblogs.com/jhj117/p/5455761.html)
 
 
 ## Android内存模型分析
